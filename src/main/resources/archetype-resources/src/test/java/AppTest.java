@@ -1,4 +1,4 @@
-package $com.calidadsoft.practica4;
+package edu.ucam.calidad.practica4;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

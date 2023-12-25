@@ -1,4 +1,4 @@
-package $com.calidadsoft.practica4;
+package edu.ucam.calidad.practica4;
 
 public class App {
 	public static void main(String[] args) {
